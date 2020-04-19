@@ -2,7 +2,7 @@
 
 My Second Year University project based of secure file transfers using a blockchain ledger to record transactions.
 
-Files are broked up into 1000 shards and encrypted with AES-128 to distribute it across FTP nodes on a publicly distributed network. 
+Files are broken up into a thousand shards and are encrypted with AES-128 to distribute it across FTP nodes on a publicly distributed network. 
 
 ![File Cube 1](https://github.com/WilliamThomas-sec/Blockchain-File-Transfar-System/blob/master/FileCube-img1.png)
 
