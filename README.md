@@ -1,6 +1,6 @@
 ### Blockchain File Transfer System
 
-Here's my project based of secure file transfers using a blockchain ledger to record transactions.
+Here's my project based on secure file transfers using a blockchain ledger to record transactions.
 
 Files are broken up into a thousand shards and are encrypted with AES-128 to distribute it across FTP nodes on a publicly distributed network. 
 
